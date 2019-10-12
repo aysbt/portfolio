@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Data Analysis 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Investigating TMDB Movie Datasets](https://medium.com/my-data-camp-journey/investigating-tmdb-movie-datasets-4ee04c263915)
+<img src="images/Data_Analysis_Study.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
