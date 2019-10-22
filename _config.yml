@@ -2,8 +2,11 @@ title: Ayse Bat # your name (or website title) here
 logo: "/images/phot.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <a href="https://www.linkedin.com/in/aysebat/">View My LinkedIn Profile</a> 
+  <br></br>
   <a href="https://github.com/aysbt/">View My Github Profile</a> 
+  <br></br>
   <a href="https://www.kaggle.com/aaysbt">View My Kaggle Profile</a> 
+  <br></br>
   <a href="https://medium.com/@aaysbt">View My Medium Profile</a> 
   
 theme: jekyll-theme-minimal
