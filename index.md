@@ -12,7 +12,7 @@
 ### Data Science Project
 
 [House Price Prediction:Kaggle Competition](https://www.kaggle.com/aaysbt/house-price-prediction-eda-model-predictions-2)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/hp_ds.png?raw=true"/>
 
 ---
 <p style="font-size:11px">
