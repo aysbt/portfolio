@@ -1,13 +1,10 @@
 title: Ayse Bat # your name (or website title) here
-logo: "/images/c_phot.jpg?raw=true" # your photo (or logo) here
+logo: "/images/c_phot.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <a href="https://www.linkedin.com/in/aysebat/">View My LinkedIn Profile</a> 
- 
-  <a href="https://github.com/aysbt/">View My Github Profile</a> 
-  
-  <a href="https://www.kaggle.com/aaysbt">View My Kaggle Profile</a> 
-
-  <a href="https://medium.com/@aaysbt">View My Medium Profile</a> 
+  <a href="https://www.linkedin.com/in/aysebat/">View My LinkedIn Profile</a> <br>
+  <a href="https://github.com/aysbt/">View My Github Profile</a> <br>
+  <a href="https://www.kaggle.com/aaysbt">View My Kaggle Profile</a> <br>
+  <a href="https://medium.com/@aaysbt">View My Medium Profile</a> <br>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-149860962-1 # your Google Analytics tracking ID here
