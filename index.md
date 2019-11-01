@@ -7,7 +7,7 @@
 In this Kaggle competition, I have been predicting the house price with a lot of explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa. Python programming and regression techniques like the random forest were used in this competition. Please follow the link to see Kaggle's notebook. 
 
 [House Price Prediction:Kaggle Competition](https://www.kaggle.com/aaysbt/house-price-prediction-eda-model-predictions-2)
-<img src="images/hp_ds.png?raw=true"/>
+<img src="images/ds_hp.png?raw=true"/>
 
 ## Data Analysis 
 ### Investigating TMDB Movie Datasets
