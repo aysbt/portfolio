@@ -23,6 +23,7 @@ The competition is: use machine learning to create a model that predicts which p
 In this project, I have been used the TMDB movies dataset which is collected between 1960 to 2015 with the information of title, budget, revenue, cast, director, genres, release date, release year, runtime, etc The primary goal of the project is making the exploratory data analysis using numpy, pandas, seaborn and matplotlib library. 
 
 [Investigating TMDB Movie Datasets](https://medium.com/my-data-camp-journey/investigating-tmdb-movie-datasets-4ee04c263915)
+
 <img src="images/Data_Analysis_Study.png?raw=true"/>
 
 ---
