@@ -11,7 +11,7 @@ In this Kaggle competition, I have been predicting the house price with a lot of
 
 
 ### Titanic Machine Learning Competition
-The competition is: use machine learning to create a model that predicts which passengers survived on the Titanic shipwreck.I used predictive modeling to find out the best algorithm to predict survived people. Logistic Regression, Linear Support Vector Machine, Radical Support Vector MAchine, DEcison Tree, K-Nearest Neighbours(KNN), Gaussian Naive Bayes, Random Forest algorithm has been used to find the best model. Please visit the Kaggle notebook for more information.
+The competition is: use machine learning to create a model that predicts which passengers survived on the Titanic shipwreck.I used predictive modeling to find out the best algorithm to predict survived people. Logistic Regression, Linear Support Vector Machine, Radical Support Vector Machine, Decison Tree, K-Nearest Neighbours(KNN), Gaussian Naive Bayes, Random Forest algorithm has been used to find the best model. Please visit the Kaggle notebook for more information.
 [Titanic Machine Learning Competition](https://www.kaggle.com/aaysbt/titanic-datasets-eda-fe-dc-model-predictions)
 <img src="images/titanic.png?raw=true"/>
 
