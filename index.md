@@ -3,6 +3,14 @@
 ---
 
 ## Data Science Project
+
+### Fashion MNIST dataset training using PyTorch
+
+This project is a part of the Bertelsmann Tech Scholarship AI Track Nanodegree Program from Udacity. In this project, we are going to use Fashion MNIST data sets, which is contained a set of 28X28 greyscale images of clothes. Our goal is building a neural network using Pytorch and then training the network to predict clothes. This trained network will return a probability for 10 classes of clothes shown in images.
+
+[Link to the Medium article](https://medium.com/@aaysbt/fashion-mnist-data-training-using-pytorch-7f6ad71e96f4)
+<img src="images/pytorch.png">
+
 ### House Price Prediction:Kaggle Competition
 In this Kaggle competition, I have been predicting the house price with a lot of explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa. Python programming and regression techniques like the random forest were used in this competition. Please follow the link to see Kaggle's notebook. 
 
